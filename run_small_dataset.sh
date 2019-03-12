@@ -1,0 +1,1 @@
+python3 small_dataset.py --game_data_dir ../data --game_data_glob *csv --match_data_path ../premilinary_report/original-format-imputation.csv

@@ -1,0 +1,20 @@
+RF highest recall: 0.586046511627907 with params {'class_weight': 'balanced', 'criterion': 'gini', 'max_features': None, 'min_samples_leaf': 10, 'n_estimators': 200}
+RF highest precision: 0.686046511627907 with params {'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'log2', 'min_samples_leaf': 10, 'n_estimators': 100}
+Logi highest recall: 0.0 with params {'C': 1e-05, 'max_iter': 100, 'solver': 'newton-cg'}
+Logi highest precision: 0.0 with params {'C': 1e-05, 'max_iter': 100, 'solver': 'newton-cg'}
+RF highest recall: 0.6511627906976745 with params {'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'auto', 'min_samples_leaf': 20, 'n_estimators': 100}
+RF highest precision: 0.8372093023255814 with params {'class_weight': None, 'criterion': 'entropy', 'max_features': 'auto', 'min_samples_leaf': 5, 'n_estimators': 50}
+Logi highest recall: 0.0 with params {'C': 1e-05, 'max_iter': 100, 'solver': 'newton-cg'}
+Logi highest precision: 0.0 with params {'C': 1e-05, 'max_iter': 100, 'solver': 'newton-cg'}
+RF highest recall: 1.0 with params {'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'auto', 'min_samples_leaf': 20, 'n_estimators': 50}
+RF highest precision: 0.6806201550387597 with params {'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'log2', 'min_samples_leaf': 2, 'n_estimators': 100}
+Logi highest recall: 0.0 with params {'C': 1e-05, 'max_iter': 100, 'solver': 'newton-cg'}
+Logi highest precision: 0.0 with params {'C': 1e-05, 'max_iter': 100, 'solver': 'newton-cg'}
+RF highest recall: 0.6877076411960134 with params {'class_weight': 'balanced', 'criterion': 'entropy', 'max_features': 'auto', 'min_samples_leaf': 5, 'n_estimators': 25}
+RF highest precision: 0.7209302325581395 with params {'class_weight': None, 'criterion': 'gini', 'max_features': 'auto', 'min_samples_leaf': 5, 'n_estimators': 50}
+Logi highest recall: 0.0 with params {'C': 1e-05, 'max_iter': 100, 'solver': 'newton-cg'}
+Logi highest precision: 0.0 with params {'C': 1e-05, 'max_iter': 100, 'solver': 'newton-cg'}
+RF highest recall: 0.8090909090909091 with params {'class_weight': 'balanced', 'criterion': 'gini', 'max_features': 'auto', 'min_samples_leaf': 10, 'n_estimators': 100}
+RF highest precision: 0.7272727272727273 with params {'class_weight': None, 'criterion': 'gini', 'max_features': 'auto', 'min_samples_leaf': 5, 'n_estimators': 25}
+Logi highest recall: 0.0 with params {'C': 1e-05, 'max_iter': 100, 'solver': 'newton-cg'}
+Logi highest precision: 0.0 with params {'C': 1e-05, 'max_iter': 100, 'solver': 'newton-cg'}
